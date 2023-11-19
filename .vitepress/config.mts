@@ -18,6 +18,11 @@ export default defineConfig({
   lang: "en-US",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
+    logo: {
+      light: "/logo-light-mode.svg",
+      dark: "/logo-dark-mode.svg",
+    },
+    siteTitle: false,
     nav: [
       { text: "Home", link: "/" },
       { text: "Examples", link: "/markdown-examples" },
