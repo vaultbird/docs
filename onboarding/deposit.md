@@ -4,8 +4,8 @@ prev:
   link: "/onboarding/choose"
 
 next:
-  text: "Monitor vault"
-  link: "/onboarding/monitor"
+  text: "Withdraw from vault"
+  link: "/onboarding/withdraw"
 ---
 
 # Deposit

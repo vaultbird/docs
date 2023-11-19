@@ -1,7 +1,7 @@
 ---
 prev:
-  text: "Monitor vault"
-  link: "/onboarding/monitor"
+  text: "Deposit to vault"
+  link: "/onboarding/deposit"
 
 next: false
 ---
