@@ -30,7 +30,7 @@ export default defineConfig({
 
     sidebar: [
       {
-        text: "Get started",
+        text: "Getting started",
         items: [
           { text: "Connect wallet", link: "/onboarding/connect" },
           { text: "Choose vault", link: "/onboarding/choose" },
