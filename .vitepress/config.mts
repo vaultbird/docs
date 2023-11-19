@@ -23,14 +23,7 @@ export default defineConfig({
       dark: "/logo-dark-mode.svg",
     },
     siteTitle: false,
-    nav: [
-      { text: "Home", link: "/" },
-      { text: "Examples", link: "/markdown-examples" },
-    ],
-
-    socialLinks: [
-      { icon: "github", link: "https://github.com/vuejs/vitepress" },
-    ],
+    nav: [{ text: "Go to app", link: "https://vaultbird.com/vaults" }],
 
     sidebar: [
       {
