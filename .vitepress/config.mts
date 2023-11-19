@@ -28,6 +28,10 @@ export default defineConfig({
       { text: "Examples", link: "/markdown-examples" },
     ],
 
+    socialLinks: [
+      { icon: "github", link: "https://github.com/vuejs/vitepress" },
+    ],
+
     sidebar: [
       {
         text: "Vaultbird Turbo",
@@ -48,10 +52,9 @@ export default defineConfig({
         ],
       },
     ],
-
-    socialLinks: [
-      { icon: "github", link: "https://github.com/vuejs/vitepress" },
-    ],
+    search: {
+      provider: "local",
+    },
   },
   sitemap: {
     hostname: "https://docs.vaultbird.com",
