@@ -30,13 +30,15 @@ export default defineConfig({
 
     sidebar: [
       {
-        text: "Getting started",
+        text: "Vaultbird Turbo",
         items: [
-          { text: "Connect wallet", link: "/onboarding/connect" },
-          { text: "Choose vault", link: "/onboarding/choose" },
-          { text: "Deposit to vault", link: "/onboarding/deposit" },
-          { text: "Withdraw from vault", link: "/onboarding/withdraw" },
+          { text: "Introduction", link: "/turbo/introduction" },
+          { text: "Getting started", link: "/turbo/getting-started" },
         ],
+      },
+      {
+        text: "Vaultbird Kit",
+        items: [{ text: "Introduction", link: "/kit/introduction" }],
       },
       {
         text: "Examples",

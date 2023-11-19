@@ -13,5 +13,5 @@ pnpm install
 Run the development server:
 
 ```sh
-pnpm docs:dev
+pnpm dev
 ```
