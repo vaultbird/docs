@@ -30,6 +30,15 @@ export default defineConfig({
 
     sidebar: [
       {
+        text: "Get started",
+        items: [
+          { text: "Connect wallet", link: "/onboarding/connect" },
+          { text: "Choose vault", link: "/onboarding/choose" },
+          { text: "Deposit to vault", link: "/onboarding/deposit" },
+          { text: "Withdraw from vault", link: "/onboarding/withdraw" },
+        ],
+      },
+      {
         text: "Examples",
         items: [
           { text: "Markdown Examples", link: "/markdown-examples" },

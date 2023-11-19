@@ -8,4 +8,17 @@ titleTemplate: false
 ogImage: "og.png"
 ---
 
-# Introduction
+# Vaultbird Documentation
+
+Learn how to use Vaultbird to optimizes your DeFi yields.
+
+## New to Vaultbird?
+
+Follow this step-by-step guide to quickly get up and running with Vaultbird.
+
+1. [Connect wallet](./onboarding/connect.md)
+2. [Choose vault](./onboarding/choose.md)
+3. [Deposit to vault](./onboarding/deposit.md)
+4. [Withdraw from vault](./onboarding/withdraw.md)
+
+## Learn more
