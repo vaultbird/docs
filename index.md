@@ -1,24 +1,11 @@
 ---
-# https://vitepress.dev/reference/default-theme-home-page
-layout: home
-
-hero:
-  name: "Vaultbird Docs"
-  text: "Grow your assets faster with Vaultbird"
-  tagline: My great project tagline
-  actions:
-    - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
-    - theme: alt
-      text: API Examples
-      link: /api-examples
-
-features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+layout: doc
+title: "Vaultbird Documentation"
+description: "Learn how Vaultbird optimizes your DeFi yields. Explore our
+  user-friendly documentation for step-by-step guides and strategies to
+  enhance your yield farming experience"
+titleTemplate: false
+ogImage: "og.png"
 ---
+
+# Introduction

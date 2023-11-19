@@ -1,13 +1,21 @@
 import { defineConfig } from "vitepress";
 
+import head from "./head";
+import generateDynamicMeta from "./generateDynamicMeta";
+
+const hostname: string = "https://docs.vaultbird.com";
+
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: "Vaultbird Documentation",
   description: "Grow your assets faster with Vaultbird",
-  head: [
-    ["link", { rel: "icon", type: "image/png", href: "/favicon.png" }],
-    ["link", { rel: "apple-touch-icon", href: "/apple-touch-icon.png" }],
-  ],
+  head: head,
+  transformHead(context) {
+    return generateDynamicMeta(context, hostname);
+  },
+  lastUpdated: true,
+  cleanUrls: true,
+  lang: "en-US",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
@@ -28,5 +36,8 @@ export default defineConfig({
     socialLinks: [
       { icon: "github", link: "https://github.com/vuejs/vitepress" },
     ],
+  },
+  sitemap: {
+    hostname: "https://docs.vaultbird.com",
   },
 });
