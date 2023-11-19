@@ -13,10 +13,7 @@ const generateDynamicMeta = (context: TransformContext, hostname: string) => {
   head.push(["link", { rel: "canonical", href: url }]);
 
   head.push(["meta", { property: "og:url", content: url }]);
-  head.push([
-    "meta",
-    { property: "og:type", content: pageData.frontmatter.type },
-  ]);
+  head.push(["meta", { property: "og:type", content: "website" }]);
   head.push([
     "meta",
     { property: "og:title", content: pageData.frontmatter.title },
