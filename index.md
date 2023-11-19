@@ -85,7 +85,7 @@ Vaultbird Kit, our dedicated support team is here to help. You can reach out to
 us through our official support channels, including:
 
 - Twitter/X: [@vaultbird](https://x.com/vaultbird)
-- Discord: [discord.vaultbird.com](#)
+- Discord: soooooon
 - Email: support@vaultbird.com
 
 We value your feedback and are committed to providing you with the best possible
