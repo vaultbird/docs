@@ -8,6 +8,7 @@ const hostname: string = "https://docs.vaultbird.com";
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: "Vaultbird Documentation",
+  titleTemplate: ":title — Vaultbird Documentation",
   description: "Grow your assets faster with Vaultbird",
   head: head,
   transformHead(context) {
@@ -30,7 +31,7 @@ export default defineConfig({
         text: "Vaultbird Turbo",
         items: [
           { text: "Introduction", link: "/turbo/introduction" },
-          { text: "Getting started", link: "/turbo/getting-started" },
+          { text: "Getting Started", link: "/turbo/getting-started" },
         ],
       },
       {

@@ -5,7 +5,7 @@ description:
   "Explore Vaultbird Turbo for optimized yield compounding and VaultbirdKit for
   seamless ERC4626 vault interactions. Start growing your assets faster today!"
 titleTemplate: false
-ogImage: "og.png"
+ogImage: "images/welcome.png"
 
 next: false
 ---
