@@ -55,5 +55,5 @@ information before confirming any actions.
 If you have any questions or need further assistance, our community is here to
 help. Reach out to us through the contact information provided on our website.
 
-Start using Vaultbird Turbo today and simplify your DeFi investments while
+Start using Vaultbird Turbo today and simplify your yield farming strategy while
 maximizing your yield. Happy yield farming!
