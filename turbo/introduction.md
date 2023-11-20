@@ -27,12 +27,12 @@ making your initial deposited assets increase over time. By doing this
 automatically, Vaultbird Turbo saves you time and energy while making sure you
 earn as much as possible.
 
-Vaultbird Turbo does this by using a powerful standard called ERC4626. This
-standard makes sure that Vaultbird Turbo can work smoothly with other DeFi
-protocols that also use this standard. Because of this compatibility, you can
-use Vaultbird Turbo's autocompounding features on different platforms and with
-different protocols, making it more useful and helping you generate even more
-yields.
+Vaultbird Turbo does this by using a powerful standard called
+[ERC-4626](https://erc4626.info). This standard makes sure that Vaultbird Turbo
+can work smoothly with other DeFi protocols that also use this standard. Because
+of this compatibility, you can use Vaultbird Turbo's autocompounding features on
+different platforms and with different protocols, making it more useful and
+helping you generate even more yields.
 
 ## How does Vaultbird Turbo work?
 
@@ -65,14 +65,14 @@ manual effort and time required to reinvest your yields. This efficiency allows
 you to focus on other aspects of your DeFi strategy while ensuring that your
 assets are constantly working for you.
 
-### ERC4626 Compatibility
+### ERC-4626 Compatibility
 
-Vaultbird Turbo is fully compatible with the ERC4626 standard, enabling seamless
-integration with other DeFi protocols that adhere to the same standard. This
-compatibility ensures interoperability and extends the benefits of
-autocompounding to a wide range of platforms and protocols. You can leverage
-Vaultbird Turbo's capabilities across different projects and maximize your yield
-generation potential.
+Vaultbird Turbo is fully compatible with the [ERC-4626](https://erc4626.info)
+standard, enabling seamless integration with other DeFi protocols that adhere to
+the same standard. This compatibility ensures interoperability and extends the
+benefits of autocompounding to a wide range of platforms and protocols. You can
+leverage Vaultbird Turbo's capabilities across different projects and maximize
+your yield generation potential.
 
 ## Why Choose Vaultbird Turbo?
 
