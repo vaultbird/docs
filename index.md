@@ -2,8 +2,8 @@
 layout: doc
 title: "Vaultbird Documentation"
 description:
-  "Explore Vaultbird Turbo for optimized yield compounding and Vaultbird Kit for
-  seamless ERC-4626 vault interactions. Start growing your assets faster today!"
+  "Vaultbird is building open-source protocols and tools that simplify and
+  enhance your yield farming experience."
 titleTemplate: false
 ogImage: "images/welcome.png"
 
