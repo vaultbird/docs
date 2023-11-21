@@ -2,7 +2,7 @@
 layout: doc
 title: "Vaultbird Documentation"
 description:
-  "Explore Vaultbird Turbo for optimized yield compounding and VaultbirdKit for
+  "Explore Vaultbird Turbo for optimized yield compounding and Vaultbird Kit for
   seamless ERC-4626 vault interactions. Start growing your assets faster today!"
 titleTemplate: false
 ogImage: "images/welcome.png"
@@ -12,89 +12,62 @@ next: false
 
 # Vaultbird Documentation
 
-Welcome to the official documentation for Vaultbird, a dedicated community
-driven by the common goal of building the best yield platform in the
-decentralized finance (DeFi) space.
+Welcome to the Vaultbird Documentation!
 
-This documentation provides comprehensive information about Vaultbird products:
+Vaultbird is building open-source protocols and tools that simplify and enhance
+your yield farming experience.
 
-- Vaultbird Turbo (coming soon)
-- Vaultbird Kit (coming soon)
-
+This documentation provides comprehensive information about Vaultbird projects.
 Whether you are a user, developer, or researcher, this documentation will guide
 you through the features, functionalities, and integration possibilities of our
-products.
+projects.
 
 ## Vaultbird Turbo
 
-Vaultbird Turbo is a cutting-edge DeFi tool that leverages the power of the
-[ERC-4626](https://erc4626.info) standard to grow your assets faster. By
-automatically compounding generated yields or rewards, Vaultbird Turbo
-seamlessly reinvests them back, compounding your returns over time.
-
-With its [ERC-4626](https://erc4626.info) compatibility, Vaultbird Turbo
-seamlessly interacts with other compatible protocols and platforms, offering you
-a versatile and efficient solution to maximize your earnings.
+Vaultbird Turbo is a simple yet efficient autocompounder designed to maximize
+your earnings in yield farming. It automatically reinvests generated yields,
+helping you grow your assets faster. Vaultbird Turbo is built on the
+[ERC-4626](https://erc4626.info) standard, ensuring seamless integration with
+other DeFi platforms and protocols.
 
 [Learn more about Vaultbird Turbo](./turbo/introduction.md)
 
 ## Vaultbird Kit
 
-Vaultbird Kit is an open-source library designed to simplify interactions with
-[ERC-4626](https://erc4626.info) compatible tokenized vaults. It empowers
-developers by providing a developer-friendly toolkit that abstracts the
-complexities of integrating vault functionalities into their applications or
-projects.
-
-With Vaultbird Kit, developers can seamlessly interact with
-[ERC-4626](https://erc4626.info) compatible vaults, leverage their features, and
-optimize yield generation for underlying assets.
+Vaultbird Kit is an open-source library that enables developers to interact with
+[ERC-4626](https://erc4626.info) tokenized vaults. It provides a comprehensive
+set of tools, functions, and resources to simplify integration and streamline
+the development process.
 
 [Learn more about Vaultbird Kit](./kit/introduction.md)
 
 ## Open Source
 
-At Vaultbird, we strongly believe in the power of open-source software. We
-embrace the collaborative nature of the developer community and encourage
-contributions to our projects. Here are some key aspects of our commitment to
-open source:
-
-- **Source Code**: The source code of Vaultbird is available on our
-  [official GitHub organization](https://github.com/vaultbird). You can explore,
-  review, and contribute to the development of Vaultbird. We welcome your pull
-  requests and suggestions.
-
-- **Community Contributions**: We value community contributions and appreciate
-  the expertise and insights that developers bring to our projects. If you have
-  ideas, improvements, or bug fixes, please feel free to submit them as GitHub
-  issues or pull requests. Together, we can enhance the functionality and
-  usability of Vaultbird.
-
-- **Transparency and Collaboration**: We believe in transparency and
-  collaboration throughout the development process. Our GitHub organization
-  serves as a central hub for discussions, issue tracking, and project
-  management. Join the community, engage in discussions, and collaborate with
-  fellow developers to drive the evolution of Vaultbird.
+At Vaultbird, we are committed to building open-source protocols and tools. We
+believe in the power of collaboration, transparency, and community-driven
+innovation. By adopting an open-source approach, we encourage developers and the
+community to access, contribute to, and modify the code. Together, we can create
+a stronger and more inclusive DeFi ecosystem.
 
 We invite you to explore our open-source projects, contribute to their
 development, and become an active member of our growing developer community.
 
-## Support
+[Vaultbird GitHub organization](https://github.com/vaultbird)
 
-If you have any questions, issues, or need assistance with Vaultbird Turbo or
-Vaultbird Kit, our dedicated support team is here to help. You can reach out to
-us through our official support channels, including:
+## Join Community
 
-- Twitter/X: [@vaultbird](https://x.com/vaultbird)
-- Discord: soooooon
-- Email: support@vaultbird.com
+Join our vibrant community of yield farmers enthusiasts! We value your input and
+believe in building a strong and supportive community together. Connect with
+like-minded individuals, share insights, and stay updated on the latest news and
+developments. Engage in discussions, participate in community events, and
+contribute to the growth of Vaultbird. Your involvement plays a crucial role in
+shaping the future of our platform.
 
-We value your feedback and are committed to providing you with the best possible
-support experience. Don't hesitate to reach out to us if you need any help or
-have any inquiries.
+- Follow Vaultbird on Twitter/X: [@vaultbird](https://x.com/vaultbird)
+- Join Vaultbird Discord: soon
 
-We hope this documentation provides you with the necessary information to
-understand and utilize Vaultbird Turbo and Vaultbird Kit effectively. Whether
-you are a user looking to optimize your yield farming strategy or a developer
-seeking to integrate vault functionalities, we are here to support you on your
-decentralized finance journey.
+We hope this overview provides you with a clear understanding of Vaultbird and
+its projects. Explore the documentation to dive deeper into Vaultbird Turbo and
+Vaultbird Kit, and unlock the full potential of yield farming and interacting
+with tokenized vaults. Remember, Vaultbird is actively building open-source
+protocols and tools to empower you in your yield farming journey.
